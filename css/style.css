@@ -1,5 +1,5 @@
 body {
-    background-color: tan;
+    background-color: lightgray;
     color: #333;
     font-family: Lato, sans-serif;
   }
@@ -116,4 +116,8 @@ body {
   
   ul li.editMode label {
     display:none;
+  }
+  footer{
+    text-align: center;
+
   }
